@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+    background-color: rgb(206, 191, 171);
+}
+
+#primeira{
+    background-color: black;
+    height: 50px;
+    width: 300px;
+}
+
+#resposta{
+    width: 250px;
+    height: 40px;
+    font-size: 25pt;
+    text-align: right;
+}
+
+div{
+    background-color: black;
+    align-self: center;
+}
+
+#segunda{
+    background-color: black;
+    height: 50px;
+    width: 300px;
+}
+#terceira{
+    background-color: black;
+    height: 70px;
+    width: 300px;
+}
+
+#ac{
+    width: 60px;
+    height: 60px;
+}
+#d{
+     height: 35px;
+    width: 260px;
+}
+#separa{
+    background-color: black;
+    height: 70px;
+    width: 300px;
+    gap: 130px;
+    display:flex;
+    justify-content: center;
+   
+}
+
+button{
+    width: 60px;
+    height: 60px;
+}
+
+table{
+    height: 50px;
+    width: 50px;
+}
+
+#direita{
+    display: grid; grid-auto-flow: column; 
+    justify-content: right;   
+    padding-right: 24px;
+    gap: 4px;     
+}
+
+#azul{
+    background-color: rgb(40, 173, 173);
+}
+#rosa{
+    background-color:beige
+}
+#roxo{
+    background-color:rgb(116, 10, 236)
+}
+
+#grande{
+    background-color: black;
+    width: 300px;
+}
